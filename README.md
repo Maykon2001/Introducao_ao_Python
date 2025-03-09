@@ -2,11 +2,11 @@
 
 O que é Java?
 
-    Criada em 1995 pela Sun Microsystems (Orandosgraria de hoje).
+Criada em 1995 pela Sun Microsystems (Orandosgraria de hoje).
 
-    Linguagem de programação orientação a objetos.
+Linguagem de programação orientação a objetos.
 
-    "Write Once, Run Anywhere" : Código Java é compilaçãodo para bytecode, que pode ser executado em instrumento com JVM (Java Virtual Machine).
+"Write Once, Run Anywhere" : Código Java é compilaçãodo para bytecode, que pode ser executado em instrumento com JVM (Java Virtual Machine).
 
     Amplamente utiliza em aplicações web, mobile (Android), desktop, sistemas embarcados e muito mais
 

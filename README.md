@@ -58,11 +58,9 @@ print(f"O resultado da soma é: {resultado}")
 1. **Documentação Oficial do Python**:
    - Disponível em: [https://docs.python.org/3/](https://docs.python.org/3/)
 
-2. **LUTZ, Mark. Programming Python**. 5ª edição. O'Reilly Media, 2013.
+2. **LUTZ, Mark. Programming Python**. 2ª edição. O'Reilly Media, 2007.
 
-3. **RAMALHO, Luciano. Fluent Python**. O'Reilly Media, 2015.
 
-4. **DOWNEY, Allen B. Think Python: How to Think Like a Computer Scientist**. 2ª edição. O'Reilly Media, 2015.
 
 
 ### Exemplo Prático

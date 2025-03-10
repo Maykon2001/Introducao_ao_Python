@@ -70,5 +70,7 @@ print(f"O resultado da soma é: {resultado}")
 ### Integrantes do Projeto
 
 Maykon Carvalho Marques Dos Santos
+
 Erick Matheus Nascimento de Albuquerque
+
 Narcelia Lopes Souza

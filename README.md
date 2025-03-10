@@ -66,3 +66,9 @@ print(f"O resultado da soma é: {resultado}")
 ### Exemplo Prático
 
 [Google Colab](https://colab.research.google.com/drive/1HKnIFWFmdCRJTxxkbRql7R3_L3ovjlz1#scrollTo=F0hU9TUIRLL6&uniqifier=6)
+
+### Integrantes do Projeto
+
+Maykon Carvalho Marques Dos Santos
+Erick Matheus Nascimento de Albuquerque
+Narcelia Lopes Souza

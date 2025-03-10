@@ -59,20 +59,7 @@ print(f"O resultado da soma é: {resultado}")
    - Disponível em: [https://docs.python.org/3/](https://docs.python.org/3/)
 
 2. **LUTZ, Mark. Programming Python**. 5ª edição. O'Reilly Media, 2013.
-   - Um guia abrangente para programação em Python, cobrindo desde conceitos básicos até tópicos avançados.
 
 3. **RAMALHO, Luciano. Fluent Python**. O'Reilly Media, 2015.
-   - Um livro que explora os recursos mais avançados e idiomas do Python, ideal para quem deseja se aprofundar na linguagem.
 
 4. **DOWNEY, Allen B. Think Python: How to Think Like a Computer Scientist**. 2ª edição. O'Reilly Media, 2015.
-   - Um livro introdutório que ensina Python enquanto desenvolve o pensamento computacional.
-
-5. **MCKINNEY, Wes. Python for Data Analysis**. 2ª edição. O'Reilly Media, 2017.
-   - Focado no uso de Python para análise de dados, com ênfase em bibliotecas como Pandas e NumPy.
-
-6. **BEAZLEY, David M.; JONES, Brian K. Python Cookbook**. 3ª edição. O'Reilly Media, 2013.
-   - Um livro repleto de receitas práticas para resolver problemas comuns em Python.
-
----
-
-Python é uma linguagem versátil e poderosa, ideal para iniciantes e profissionais que desejam desenvolver soluções eficientes e de alta qualidade. Sua simplicidade e vasto ecossistema a tornam uma das melhores escolhas para diversos projetos.

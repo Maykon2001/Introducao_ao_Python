@@ -63,3 +63,8 @@ print(f"O resultado da soma é: {resultado}")
 3. **RAMALHO, Luciano. Fluent Python**. O'Reilly Media, 2015.
 
 4. **DOWNEY, Allen B. Think Python: How to Think Like a Computer Scientist**. 2ª edição. O'Reilly Media, 2015.
+
+
+### Exemplo Prático
+
+[Google Colab](https://colab.research.google.com/drive/1HKnIFWFmdCRJTxxkbRql7R3_L3ovjlz1#scrollTo=F0hU9TUIRLL6&uniqifier=6)
